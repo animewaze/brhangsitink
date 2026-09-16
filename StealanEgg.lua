@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://api.jnkie.com/api/v1/loaders/public/2f438a15b8d485df869289d7bd8ac445598c6c9c55d9538c815b64454d615d02/download"))()
+loadstring(game:HttpGet("https://api.jnkie.com/api/v1/loaders/public/c2024e2af84e53e485309e54497731888b28798ba4b5cb8b14f0abb5ae9a2fdf/download"))()
